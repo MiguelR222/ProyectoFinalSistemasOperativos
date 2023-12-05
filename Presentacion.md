@@ -66,7 +66,48 @@ Spotlight, permite buscar en todos los documentos de una Mac. iChat AV permite t
 
 Cambios a la interfaz de usuario. Back to My Mac. Boot Camp, permitía accesar documentos en tu computadora desde fuera usando internet. iCal. 
 
+### Mac OS X 10.6 (Snow Leopard) Agosto 2009
+Integro la Mac App Store. Más ligero en almacenamiento. Soporte para Microsoft Exchange.
 
+### Mac OS X 10.7 (Lion) Julio 2011
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/8/80/Mac_OSX_Lion_screen.png) <br>
+
+AirDrop utilizando Wi-Fi Direct. Autocorrector. Push Notifications. Soporte para el uso de Emoji. QuickTime incorpora utilidades de la version pro. 
+
+### Mac OS X 10.8 (Mountain Lion) Julio 2012
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Notification_Center_Mountain_Lion.png/220px-Notification_Center_Mountain_Lion.png) <br>
+
+Notification Center. Notas. Mensajeria propia. Game Center. AirPlay Mirroring. 
+
+### Mac OS 10.9 (Mavericks) Octubre 2013
+Se incluye aplicacion de iBooks para comprar y leer libros en la computadora. Maps, al igual que en iOS es utilizada para buscar direcciones y obtener rutas. En FaceTime ya no se necesita usar la camara. Opcion para bloquear en iMessage.
+
+### Mac OS 10.10 (Yosemite) Octubre 2014
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/1/17/OS_X_Yosemite_Desktop.png) <br>
+
+Handoff, permite hacer llamadas y mandar mensajes por medio de la Mac utilizando el iPhone; también permite continuar el trabajo comenzado en una app del celular en su equivalente en la computadora, por ejemplo un correo. Photos reemplaza iPhotos y Aperture.
+
+### Mac OS X 10.11 (El Capitan) Septiembre 2015
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MacOS_Split_View.jpg/320px-MacOS_Split_View.jpg) <br>
+
+Permite utilizar la función de split screen, teniendo una aplicación de cada lado de la pantalla. Su aplicación de mapas muestra tráfico en tiempo real. Las notas se sincronizan con iCloud. 
+
+### Mac OS 10.12 (Sierra) Septiembre 2016
+
+Permite acceder a Siri. Detalla el uso de almacenamiento por aplicación, además de permitir un respaldo automatico de documentos y directorios a iCloud. Auto Unlock con iWatch. Se introduce el Apple File System, dejando atras el HFS Plus; esta hecho para SSD y Flash Memory. Introduce el modo nocturno. Se ntroduce Apple Pay, permitiendo el pago con un iPhone o con el iWatch. Ahora se puede colaborar en notas con otras personas.
+
+### Mac OS 10.13 (High Sierra) Septiembre 2017
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/9/94/MacOS_High_Sierra_Desktop.png) <br>
+APFS se covierte en el sistema de archivos por defecto. 
+
+### Mac OS 10.14 (Mojave) Septiembre 2018
+
+Se retira integración con Facebook, Twitter, Vimeo y Flickr. Se agrega el group FaceTime, en el que se puede hacer video llamada con hasta 32 personas.
 
 
 
@@ -101,12 +142,19 @@ Existen varios tipos de memorias en un sistema las cuales cumplen funciones dist
 2. SDRAM(Synchronous dynamic random access memory):su funcion es la implementacion de la memoria principal(RAM o similares).
 3. Almacenamiento secundario local (discos duros o similares)
 4. Almacenamiento secundario remoto (servidores,la nube etc.)
+<br>
+
 ![jerarquias](./img/jer.png) <br>
 ## Patrones de acceso a memoria de los programas
 Localidad temporal:
 Es donde los datos se agrupan cuando hay una posiblidad de acceso futuro cercano.<br>
+
 ![tmp](./img/tmp.png) <br>
+
 Localidad espacial: lleva datos contiguos a los niveles proximos del procesador a su vez que son datos con una alta probabilidad de que accedan a otros datos o procesos cercanos.<br>
+
 ![tmp](./img/esp.png) <br>
+
 Bloques: Es una unidad minima de intercambio de informacion entre el cache y la memoria principal, utilizando este metodo se reduce los tiempos de acceso a los datos haciendolo mas rapida.<br>
+
 ![bloques](./img/bloques.png)<br>
