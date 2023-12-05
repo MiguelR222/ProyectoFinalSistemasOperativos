@@ -1,5 +1,4 @@
 ![Logo ULSA](https://moodle2017.ulsachihuahua.edu.mx/pluginfile.php/1/theme_klass/logo/1698765223/4_IMAGOTIPO_LASALLE_CHIHUAHUA_COLOR_RGB_2020.png)
-<div style= 'text-align:justify'>
 
 # Presentación Final SO
 ## Docente: Ing. Jorge Romo <br> Miguel Ruiz 13824 <br> Elias Neder 13897
@@ -18,16 +17,15 @@ Actualmente es una necesidad debido a la complejidad del hardware y las aplicaci
 7. Leer el estado del sistema (Task manager en Windows)
 
 # Manipulación de archivos y directorios
-![Logo ULSA](./img/ExpAr.png)
+![Explorador de Archivos](./img/ExpAr.png)
 Contamos con la capacidad de identificar los archivos y directorios, observando propiedades, ubicación, permisos, nombre. <br> Podemos crear, eliminar, modificar, cambiar ubicacion de archivos y directorios. 
 
 ## Git 
-![Logo ULSA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
+![Logo Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
 Contamos con herramientas como lo es Git, la cual es un manejador de versiones. Un manejador de versiones nos permite gestionar los cambios que se le hacen a algun producto.  <br>
 Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el año 2005. <br>
 Esta nace a raíz de la falta de manejadores de versiones gratuitos y de open source. 
 
 # Open Source
-
 El open source es software cuyo dueño decide publicar con el fin de que cualquiera pueda utilizarlo, distribuirlo o modificarlo. <br> Entre los productos de open source destaca el sistema operativo Linux, en el cual existen miles de distribuciones ya que al tratarse de un software de open source cualquiera puede acceder a su codigo base y trabajar sobre él.
-</div>
+![Tux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/149px-TuxFlat.svg.png)
