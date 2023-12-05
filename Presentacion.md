@@ -88,3 +88,23 @@ Estas unidades son las siguientes:
 6. Terabyte(TB) equivalente a 1024 GB.
 Tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
 ![capacidades](./img/cap.png)<br>
+
+# Jerarquia de memoria
+Existen varios tipos de memorias en un sistema las cuales cumplen funciones distintas, es por esto que existe una jerarquia dentro de las mismas prioretizando a ciertos tipos para que se cumplan sus funciones primero.<br>
+## Tipos de memoria en la jerarquia
+1. SRAM(Static Random Access Memory): es una memoria volatil, lo cual significa que los datos se pierden una vez que se apague el dispositivo. es usada para la implementacion del cache(memoria que guarda datos para su posible uso futuro).<br>
+2. SDRAM(Synchronous dynamic random access memory):
+su funcion es la implementacion de la memoria principal(RAM o similares).<br>
+3. Almacenamiento secundario local (discos duros o similares)<br>
+4. Almacenamiento secundario remoto (servidores,la nube etc.)<br>
+![jerarquias](./img/jer.png)
+## Patrones de acceso a memoria de los programas
+Localidad temporal:
+Es donde los datos se agrupan cuando hay una posiblidad de acceso futuro cercano.<br>
+![tmp](./img/tmp.png)
+Localidad espacial:
+lleva datos contiguos a los niveles proximos del procesador a su vez que son datos con una alta probabilidad de que accedan a otros datos o procesos cercanos.<br>
+![tmp](./img/esp.png)
+Bloques:
+Es una unidad minima de intercambio de informacion entre el cache y la memoria principal, utilizando este metodo se reduce los tiempos de acceso a los datos haciendolo mas rapida.<br>
+![bloques](./img/bloques.png)
