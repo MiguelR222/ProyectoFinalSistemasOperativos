@@ -91,7 +91,8 @@ Estas unidades son las siguientes:
 6. Terabyte(TB) equivalente a 1024 GB.
 Tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
 <br>
-![capacidades](./img/cap.png)
+
+![capacidades](./img/cap.png)<br>
 
 # Jerarquia de memoria
 Existen varios tipos de memorias en un sistema las cuales cumplen funciones distintas, es por esto que existe una jerarquia dentro de las mismas priorizando a ciertos tipos para que se cumplan sus funciones primero.<br>
