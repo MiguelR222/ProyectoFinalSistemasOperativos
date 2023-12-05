@@ -36,22 +36,55 @@ Entre los productos de open source destaca el sistema operativo Linux, en el cua
 # Historia de macOS
 ## Primera version
 Comienza en 1984, integrando una Interfaz Gráfica de Usuario, comenzando con esta era en las computadoras.<br>
-A diferencia de las demás computadoras de su época, en la Macintosh se podia utilizar un mouse para navegar en el finder, un sistema con folders y archivos virtuales, esto en lugar de utilizar comandos de texto.
+A diferencia de las demás computadoras de su época, en la Macintosh se podia utilizar un mouse para navegar en el finder, un sistema con folders y archivos virtuales, esto en lugar de utilizar comandos de texto. <br>
 
-# almacenamiento
-el almacenamiento de un sistema es la capacidad del mismo para grabar y conservar los datos en algun dispositivo de almacenamiento
+![Macintosh 1984](https://miro.medium.com/v2/resize:fit:1200/1*8LosKP9RcXOEYCw3xCUk1Q.png)
+
+## Integracion de NeXT 1999
+En 1996 Apple adquiere NeXT, compañia fundada por Steve Jobs. Con esta adquisición Apple es capaz de lanzar en el año 2001 Mac OS X. Este sistema operativo corre en una base de UNIX, por lo que comparte similitudes con el sistema Linux. 
+### Mac OS X 10.0 (Cheetah) Marzo 2001
+
+![Os X](https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png)
+Utiliza una interfaz llamada Aqua y adopta el sistema de NeXTSTEP. Es un sistema operativo orientado a objetos. Al estar basado en UNIX se convierte en un sistema operativo más estable.
+### Mac OS X 10.1 (Puma) Septiembre 2001
+Trae consigo cambios en el rendimiento, permitía reproducir DVD, incluía más drivers para impresoras, ImageCapture para obtener imagenes de cámaras digitales, se introduce AppleScript Studio.
+### Mac OS X 10.2 (Jaguar) Agosto 2002
+Se incluye soporte para archivos escritos en MPEG-4, Incluye una lista de direcciones, además de incluir Rendezvous, que era un sistema que permitía descubrir dispositivos en la misma red, ofreciendo la capacidad de compartir sus servicios.
+### Mac OS X 10.3 (Panther) Octubre 2003
+Introduce a Safari como el navegador predeterminado. Permite la concurrencia de usuarios activos. Xcode.
+<br>
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/5/54/AM_MacOSX_Panther.png)
+
+### Mac OS X 10.4 (Tiger) Abril 2005
+Spotlight, permite buscar en todos los documentos de una Mac. iChat AV permite tener hasta 4 personas en video llamada y 10 personas en audio. Xcode 2.0
+
+### Mac OS X 10.5 (Leopard) Octubre 2007
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Leopard_Desktop.png/300px-Leopard_Desktop.png)
+
+
+
+
+
+
+
+
+
+# Almacenamiento
+El almacenamiento de un sistema es la capacidad del mismo para grabar y conservar los datos en algun dispositivo de almacenamiento
 
 ## Unidades de almacenamiento
-existe una amplia variedad de dispositivos de almacenamiento los cuales cumplen con la funcion de grabar y almacenar los datos de un sistema, cada uno con su propia capacidad de almacenamiento y funcionamiento distinguiendolos unos de los otros.<br>
+Existe una amplia variedad de dispositivos de almacenamiento los cuales cumplen con la funcion de grabar y almacenar los datos de un sistema, cada uno con su propia capacidad de almacenamiento y funcionamiento distinguiendolos unos de los otros.<br>
 ![dispositivos](./img/dis.png)<br>
- el factor comun que tienen todos ellos es que utilizan alguna unidad de capacidad, desde las mas pequeñas hasta las mas grandes.
+El factor comun que tienen todos ellos es que utilizan alguna unidad de capacidad, desde las mas pequeñas hasta las mas grandes.
 
-estas unidades son las siguientes:
-1. el bit siendo la mas pequena representada por la letra b representa la presencia de 0 o 1 indicando si hay o no corriente
-2. el byte(B) siendo la primera unidad con sentido, conformada por 8 bits y leyendose como un caracter aproximadamente
+Estas unidades son las siguientes:
+1. El bit siendo la mas pequena representada por la letra b representa la presencia de 0 o 1 indicando si hay o no corriente
+2. El byte(B) siendo la primera unidad con sentido, conformada por 8 bits y leyendose como un caracter aproximadamente
 3. El Kilobyte(KB) que es equivalente a 1024 Bytes.
 4. Megabyte(MB) equivalente a 1024 KB.
 5. Gigabyte(GB) equivalente a 1024 MB.
 6. Terabyte(TB) equivalente a 1024 GB.
-tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
+Tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
 ![capacidades](./img/cap.png)<br>
