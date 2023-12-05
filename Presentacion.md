@@ -37,3 +37,21 @@ Entre los productos de open source destaca el sistema operativo Linux, en el cua
 ## Primera version
 Comienza en 1984, integrando una Interfaz Gráfica de Usuario, comenzando con esta era en las computadoras.<br>
 A diferencia de las demás computadoras de su época, en la Macintosh se podia utilizar un mouse para navegar en el finder, un sistema con folders y archivos virtuales, esto en lugar de utilizar comandos de texto.
+
+# almacenamiento
+el almacenamiento de un sistema es la capacidad del mismo para grabar y conservar los datos en algun dispositivo de almacenamiento
+
+## Unidades de almacenamiento
+existe una amplia variedad de dispositivos de almacenamiento los cuales cumplen con la funcion de grabar y almacenar los datos de un sistema, cada uno con su propia capacidad de almacenamiento y funcionamiento distinguiendolos unos de los otros.<br>
+![dispositivos](./img/dis.png)<br>
+ el factor comun que tienen todos ellos es que utilizan alguna unidad de capacidad, desde las mas pequeñas hasta las mas grandes.
+
+estas unidades son las siguientes:
+1. el bit siendo la mas pequena representada por la letra b representa la presencia de 0 o 1 indicando si hay o no corriente
+2. el byte(B) siendo la primera unidad con sentido, conformada por 8 bits y leyendose como un caracter aproximadamente
+3. El Kilobyte(KB) que es equivalente a 1024 Bytes.
+4. Megabyte(MB) equivalente a 1024 KB.
+5. Gigabyte(GB) equivalente a 1024 MB.
+6. Terabyte(TB) equivalente a 1024 GB.
+tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
+![capacidades](./img/cap.png)<br>
