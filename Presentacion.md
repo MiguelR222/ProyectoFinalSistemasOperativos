@@ -18,7 +18,8 @@ Actualmente es una necesidad debido a la complejidad del hardware y las aplicaci
 
 # Manipulación de archivos y directorios
 ![Explorador de Archivos](./img/ExpAr.png)
-Contamos con la capacidad de identificar los archivos y directorios, observando propiedades, ubicación, permisos, nombre. <br> Podemos crear, eliminar, modificar, cambiar ubicacion de archivos y directorios. 
+Contamos con la capacidad de identificar los archivos y directorios, observando propiedades, ubicación, permisos, nombre. <br> 
+Podemos crear, eliminar, modificar, cambiar ubicacion de archivos y directorios. 
 
 ## Git 
 ![Logo Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
@@ -27,5 +28,12 @@ Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el
 Esta nace a raíz de la falta de manejadores de versiones gratuitos y de open source. 
 
 # Open Source
-El open source es software cuyo dueño decide publicar con el fin de que cualquiera pueda utilizarlo, distribuirlo o modificarlo. <br> Entre los productos de open source destaca el sistema operativo Linux, en el cual existen miles de distribuciones ya que al tratarse de un software de open source cualquiera puede acceder a su codigo base y trabajar sobre él.
+El open source es software cuyo dueño decide publicar con el fin de que cualquiera pueda utilizarlo, distribuirlo o modificarlo. <br> 
+Entre los productos de open source destaca el sistema operativo Linux, en el cual existen miles de distribuciones ya que al tratarse de un software de open source cualquiera puede acceder a su codigo base y trabajar sobre él. <br>
+
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/149px-TuxFlat.svg.png)
+
+# Historia de macOS
+## Primera version
+Comienza en 1984, integrando una Interfaz Gráfica de Usuario, comenzando con esta era en las computadoras.<br>
+A diferencia de las demás computadoras de su época, en la Macintosh se podia utilizar un mouse para navegar en el finder, un sistema con folders y archivos virtuales, esto en lugar de utilizar comandos de texto.
