@@ -1,4 +1,5 @@
 ![Logo ULSA](https://moodle2017.ulsachihuahua.edu.mx/pluginfile.php/1/theme_klass/logo/1698765223/4_IMAGOTIPO_LASALLE_CHIHUAHUA_COLOR_RGB_2020.png)
+<div style= 'text-align:justify'>
 
 # Presentación Final SO
 ## Docente: Ing. Jorge Romo <br> Miguel Ruiz 13824 <br> Elias Neder 13897
@@ -27,4 +28,6 @@ Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el
 Esta nace a raíz de la falta de manejadores de versiones gratuitos y de open source. 
 
 # Open Source
-El open source es 
+
+El open source es software cuyo dueño decide publicar con el fin de que cualquiera pueda utilizarlo, distribuirlo o modificarlo. <br> Entre los productos de open source destaca el sistema operativo Linux, en el cual existen miles de distribuciones ya que al tratarse de un software de open source cualquiera puede acceder a su codigo base y trabajar sobre él.
+</div>
