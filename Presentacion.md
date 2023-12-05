@@ -55,13 +55,16 @@ Introduce a Safari como el navegador predeterminado. Permite la concurrencia de 
 <br>
 
 ![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/5/54/AM_MacOSX_Panther.png)
+<br>
 
 ### Mac OS X 10.4 (Tiger) Abril 2005
 Spotlight, permite buscar en todos los documentos de una Mac. iChat AV permite tener hasta 4 personas en video llamada y 10 personas en audio. Xcode 2.0
 
 ### Mac OS X 10.5 (Leopard) Octubre 2007
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Leopard_Desktop.png/300px-Leopard_Desktop.png)
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Leopard_Desktop.png/300px-Leopard_Desktop.png) <br>
+
+Cambios a la interfaz de usuario. Back to My Mac. Boot Camp, permitía accesar documentos en tu computadora desde fuera usando internet. iCal. 
 
 
 
@@ -87,24 +90,22 @@ Estas unidades son las siguientes:
 5. Gigabyte(GB) equivalente a 1024 MB.
 6. Terabyte(TB) equivalente a 1024 GB.
 Tambien es comun que muchos sistemas operativos simplifiquen haciendo las operaciones por 1000 en vez de 1024
-![capacidades](./img/cap.png)<br>
+<br>
+![capacidades](./img/cap.png)
 
 # Jerarquia de memoria
-Existen varios tipos de memorias en un sistema las cuales cumplen funciones distintas, es por esto que existe una jerarquia dentro de las mismas prioretizando a ciertos tipos para que se cumplan sus funciones primero.<br>
+Existen varios tipos de memorias en un sistema las cuales cumplen funciones distintas, es por esto que existe una jerarquia dentro de las mismas priorizando a ciertos tipos para que se cumplan sus funciones primero.<br>
 ## Tipos de memoria en la jerarquia
-1. SRAM(Static Random Access Memory): es una memoria volatil, lo cual significa que los datos se pierden una vez que se apague el dispositivo. es usada para la implementacion del cache(memoria que guarda datos para su posible uso futuro).<br>
-2. SDRAM(Synchronous dynamic random access memory):
-su funcion es la implementacion de la memoria principal(RAM o similares).<br>
-3. Almacenamiento secundario local (discos duros o similares)<br>
-4. Almacenamiento secundario remoto (servidores,la nube etc.)<br>
-![jerarquias](./img/jer.png)
+1. SRAM(Static Random Access Memory): es una memoria volatil, lo cual significa que los datos se pierden una vez que se apague el dispositivo. es usada para la implementacion del cache(memoria que guarda datos para su posible uso futuro).
+2. SDRAM(Synchronous dynamic random access memory):su funcion es la implementacion de la memoria principal(RAM o similares).
+3. Almacenamiento secundario local (discos duros o similares)
+4. Almacenamiento secundario remoto (servidores,la nube etc.)
+![jerarquias](./img/jer.png) <br>
 ## Patrones de acceso a memoria de los programas
 Localidad temporal:
 Es donde los datos se agrupan cuando hay una posiblidad de acceso futuro cercano.<br>
-![tmp](./img/tmp.png)
-Localidad espacial:
-lleva datos contiguos a los niveles proximos del procesador a su vez que son datos con una alta probabilidad de que accedan a otros datos o procesos cercanos.<br>
-![tmp](./img/esp.png)
-Bloques:
-Es una unidad minima de intercambio de informacion entre el cache y la memoria principal, utilizando este metodo se reduce los tiempos de acceso a los datos haciendolo mas rapida.<br>
-![bloques](./img/bloques.png)
+![tmp](./img/tmp.png) <br>
+Localidad espacial: lleva datos contiguos a los niveles proximos del procesador a su vez que son datos con una alta probabilidad de que accedan a otros datos o procesos cercanos.<br>
+![tmp](./img/esp.png) <br>
+Bloques: Es una unidad minima de intercambio de informacion entre el cache y la memoria principal, utilizando este metodo se reduce los tiempos de acceso a los datos haciendolo mas rapida.<br>
+![bloques](./img/bloques.png)<br>
