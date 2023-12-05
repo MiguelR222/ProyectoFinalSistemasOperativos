@@ -12,7 +12,16 @@ Actualmente es una necesidad debido a la complejidad del hardware y las aplicaci
 2. Operaciones de entrada y salida
 3. Manipulación de Archivos y directorios
 4. Comunicación entre procesos
-5. Administración de protección y seguridad
-6. Leer el estado del sistema (Task manager en Windows)
+5. Comunicación entre diversos dispositivos
+6. Administración de protección y seguridad
+7. Leer el estado del sistema (Task manager en Windows)
 
 # Manipulación de archivos y directorios
+![Logo ULSA](./img/ExpAr.png)
+Contamos con la capacidad de identificar los archivos y directorios, observando propiedades, ubicación, permisos, nombre. <br> Podemos crear, eliminar, modificar, cambiar ubicacion de archivos y directorios. 
+
+## Git 
+![Logo ULSA](./img/GitLogo.png)
+Contamos con herramientas como lo es Git, la cual es un manejador de versiones. Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el año 2005. <br>
+Esta nace a raíz de la falta de manejadores de versiones gratuitos y de open source. 
+
