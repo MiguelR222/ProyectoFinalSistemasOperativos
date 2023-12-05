@@ -22,6 +22,9 @@ Contamos con la capacidad de identificar los archivos y directorios, observando 
 
 ## Git 
 ![Logo ULSA](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
-Contamos con herramientas como lo es Git, la cual es un manejador de versiones. Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el año 2005. <br>
+Contamos con herramientas como lo es Git, la cual es un manejador de versiones. Un manejador de versiones nos permite gestionar los cambios que se le hacen a algun producto.  <br>
+Fue creada por Linus Torvalds y el equipo de desarrollo de Linux y lanzada en el año 2005. <br>
 Esta nace a raíz de la falta de manejadores de versiones gratuitos y de open source. 
 
+# Open Source
+El open source es 
