@@ -42,6 +42,7 @@ A diferencia de las demás computadoras de su época, en la Macintosh se podia u
 
 ## Integracion de NeXT 1999
 En 1996 Apple adquiere NeXT, compañia fundada por Steve Jobs. Con esta adquisición Apple es capaz de lanzar en el año 2001 Mac OS X. Este sistema operativo corre en una base de UNIX, por lo que comparte similitudes con el sistema Linux. 
+
 ### Mac OS X 10.0 (Cheetah) Marzo 2001
 
 ![Os X](https://upload.wikimedia.org/wikipedia/en/d/d8/MacOSX10-0screenshot.png)
@@ -137,7 +138,12 @@ Se agregan apps de clima y reloj de iPad y iOS. Freeform, una app que sirve de p
 Widgets utilizables en toda la pantalla. Pantalla de bloqueo similar a la de iOS y iPadOS, con reloj y fecha. Se podrán portar juegos de Windows a macOS. 
 
 
+# Comandos de la terminal de Unix
 
+cd- cambiar de directorio<br>
+mkdir- crear directorio<br>
+touch . [nombre.tipo_de_archivo]- crear archivo <br>
+cp [nombre del archivo]- copiar archivo<br>
 
 
 
