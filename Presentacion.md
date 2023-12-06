@@ -194,15 +194,15 @@ En 1990, Microsoft lanzó Windows 3.0, que fue un gran avance. Introdujo mejoras
 
 <br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Windows_3.0_29_12_2020_11_03_55_GER.png/330px-Windows_3.0_29_12_2020_11_03_55_GER.png) <br>
 
-## windows 95
-Fue un hito importante en la historia de Windows, lanzado en 1995. Introdujo el famoso botón de "Inicio", el escritorio con íconos, el menú de inicio y una mayor facilidad de uso. Además, fue el primer Windows que tuvo un éxito masivo.
-
-<br> ![cn](https://imgs.search.brave.com/R-YGtVfv27jgX8bnkCoUKbd5oyzSbMprHPM44E2nFvk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L21p/Y3Jvc29mdC9pbWFn/ZXMvOS85MS9XaW5k/b3dzXzk1X0Rlc2t0/b3Bfc2NyZWVuc2hv/dC5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMzAwP2Ni/PTIwMTMxMjI0MTMw/NDEyJnBhdGgtcHJl/Zml4PWVz) <br>
-
 ## Windows NT Server
 Se trata de un sistema operativo para servidores que vio la luz por primera vez en julio de 1993. Su principal característica radica en su capacidad de expansión y su independencia de la plataforma y hardware. Compatible con procesadores Intel x86, RISC y DEC Alpha, permitía a los usuarios seleccionar sus sistemas informáticos. Destacado por su enfoque en estaciones de trabajo y servidores de red.
 
 <br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/Windows-NT-Server-768x512.jpg) <br>
+
+## windows 95
+Fue un hito importante en la historia de Windows, lanzado en 1995. Introdujo el famoso botón de "Inicio", el escritorio con íconos, el menú de inicio y una mayor facilidad de uso. Además, fue el primer Windows que tuvo un éxito masivo.
+
+<br> ![cn](https://imgs.search.brave.com/R-YGtVfv27jgX8bnkCoUKbd5oyzSbMprHPM44E2nFvk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L21p/Y3Jvc29mdC9pbWFn/ZXMvOS85MS9XaW5k/b3dzXzk1X0Rlc2t0/b3Bfc2NyZWVuc2hv/dC5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMzAwP2Ni/PTIwMTMxMjI0MTMw/NDEyJnBhdGgtcHJl/Zml4PWVz) <br>
 
 ## Windows 98
 Antes de Windows 98, se sucedieron distintas versiones del Windows 95 llamadas NT, diseñadas específicamente para entornos empresariales e industriales. Tres años después, el 25 de junio de 1998, Microsoft lanzó una nueva edición de su sistema operativo: Windows 98. Al igual que su predecesor, el nombre derivaba del año de lanzamiento y esta versión presentaba el sistema de archivos FAT32, enfocado en mejorar el acceso a la red. Además, introdujo la compatibilidad con lectores de DVD y la incorporación de los primeros puertos USB.
@@ -325,7 +325,7 @@ Ejemplo:
 <br>
 
 2. Shortest job first(SJF):<br>
-Es un proceso el cual puede cambiar voluntariamente de estado dependiendo de los nuevos requests que se hagan, convirtiendolo en un proceso el cual no el tiempo de ejecucion no es determinado, cambiando entre procesos prioretizando a los que tengan un tiempo mas corto de completacion. si dos o mas procesos cuentan con el mismo tiempo de completacion se utiliza un algoritmo de FCFS.
+Es un proceso el cual puede cambiar voluntariamente de estado dependiendo de los nuevos requests que se hagan, convirtiendolo en un proceso el cual  el tiempo de ejecucion no es determinado, cambiando entre procesos prioretizando a los que tengan un tiempo mas corto de completacion. si dos o mas procesos cuentan con el mismo tiempo de completacion se utiliza un algoritmo de FCFS.
 <br>Ejemplo:
 
 ![sjf](https://webplusvalencia.es/wp-content/uploads/2020/08/dise%C3%B1o-web-min.png)
@@ -365,7 +365,7 @@ Existe una amplia variedad de dispositivos de almacenamiento los cuales cumplen 
 El factor comun que tienen todos ellos es que utilizan alguna unidad de capacidad, desde las mas pequeñas hasta las mas grandes.
 
 Estas unidades son las siguientes:
-1. El bit siendo la mas pequena representada por la letra b representa la presencia de 0 o 1 indicando si hay o no corriente
+1. El bit siendo la mas pequeña representada por la letra b representa la presencia de 0 o 1 indicando si hay o no corriente
 2. El byte(B) siendo la primera unidad con sentido, conformada por 8 bits y leyendose como un caracter aproximadamente
 3. El Kilobyte(KB) que es equivalente a 1024 Bytes.
 4. Megabyte(MB) equivalente a 1024 KB.
