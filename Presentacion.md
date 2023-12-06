@@ -63,7 +63,7 @@ Spotlight, permite buscar en todos los documentos de una Mac. iChat AV permite t
 
 ### Mac OS X 10.5 (Leopard) Octubre 2007
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Leopard_Desktop.png/300px-Leopard_Desktop.png) <br>
+![Os X 10.5](https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Leopard_Desktop.png/300px-Leopard_Desktop.png) <br>
 
 Cambios a la interfaz de usuario. Back to My Mac. Boot Camp, permitía accesar documentos en tu computadora desde fuera usando internet. iCal. 
 
@@ -72,13 +72,13 @@ Integro la Mac App Store. Más ligero en almacenamiento. Soporte para Microsoft 
 
 ### Mac OS X 10.7 (Lion) Julio 2011
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/8/80/Mac_OSX_Lion_screen.png) <br>
+![Os X 10.7](https://upload.wikimedia.org/wikipedia/en/8/80/Mac_OSX_Lion_screen.png) <br>
 
 AirDrop utilizando Wi-Fi Direct. Autocorrector. Push Notifications. Soporte para el uso de Emoji. QuickTime incorpora utilidades de la version pro. 
 
 ### Mac OS X 10.8 (Mountain Lion) Julio 2012
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Notification_Center_Mountain_Lion.png/220px-Notification_Center_Mountain_Lion.png) <br>
+![Os X 10.8](https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Notification_Center_Mountain_Lion.png/220px-Notification_Center_Mountain_Lion.png) <br>
 
 Notification Center. Notas. Mensajeria propia. Game Center. AirPlay Mirroring. 
 
@@ -87,13 +87,13 @@ Se incluye aplicacion de iBooks para comprar y leer libros en la computadora. Ma
 
 ### Mac OS 10.10 (Yosemite) Octubre 2014
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/1/17/OS_X_Yosemite_Desktop.png) <br>
+![Os X 10.10](https://upload.wikimedia.org/wikipedia/en/1/17/OS_X_Yosemite_Desktop.png) <br>
 
 Handoff, permite hacer llamadas y mandar mensajes por medio de la Mac utilizando el iPhone; también permite continuar el trabajo comenzado en una app del celular en su equivalente en la computadora, por ejemplo un correo. Photos reemplaza iPhotos y Aperture.
 
 ### Mac OS X 10.11 (El Capitan) Septiembre 2015
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MacOS_Split_View.jpg/320px-MacOS_Split_View.jpg) <br>
+![Os X 10.11](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MacOS_Split_View.jpg/320px-MacOS_Split_View.jpg) <br>
 
 Permite utilizar la función de split screen, teniendo una aplicación de cada lado de la pantalla. Su aplicación de mapas muestra tráfico en tiempo real. Las notas se sincronizan con iCloud. 
 
@@ -103,7 +103,7 @@ Permite acceder a Siri. Detalla el uso de almacenamiento por aplicación, ademá
 
 ### Mac OS 10.13 (High Sierra) Septiembre 2017
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/9/94/MacOS_High_Sierra_Desktop.png) <br>
+![Os 10.13](https://upload.wikimedia.org/wikipedia/en/9/94/MacOS_High_Sierra_Desktop.png) <br>
 
 APFS se covierte en el sistema de archivos por defecto. 
 
@@ -113,23 +113,23 @@ Se retira integración con Facebook, Twitter, Vimeo y Flickr. Se agrega el group
 
 ### Mac OS 10.15 (Catalina) Octubre 2019
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/MacOS_Catalina_Desktop.png/310px-MacOS_Catalina_Desktop.png) <br>
+![Os 10.15](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/MacOS_Catalina_Desktop.png/310px-MacOS_Catalina_Desktop.png) <br>
 No soporta apps con arquitectura de 32 bits. Se presenta Catalyst, una herramienta para desarrollo de software que permite hacer aplicaciones nativas para macOS, iOS y iPadOS. Cambios en la seguridad del equipo. Sidecar, permite utilizar una iPad como segunda pantalla de la Mac. Se reemplaza iTunes por las apps de Music, Podcasts, TV y Books.Se juntan Find My Mac y Find My Friends para crear Find My, el servicio utilizado para encontrar dispositivos de la familia de Apple.
 
 ### Mac OS 11 (Big Sur) Noviembre 2020
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/6/63/MacOS_Big_Sur_Desktop.png) <br>
+![Os 11](https://upload.wikimedia.org/wikipedia/en/6/63/MacOS_Big_Sur_Desktop.png) <br>
 Se incluye el centro de control similar al disponible desde iOS 7. Se incluye soporte para los nuevos chips de apple, los Apple Silicon, comenzando con el M1. A partir de Big Sur se pueden utilizar apps de iOS y de iPadOS de forma nativa. Integra la encriptación a nivel de archivos, anteriormente solo se podian encriptar volumenes enteros.
 
 ### Mac OS 12 (Monterrey) Octubre 2021
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/9/98/MacOS_Monterey_Desktop.png) <br>
+![Os 12](https://upload.wikimedia.org/wikipedia/en/9/98/MacOS_Monterey_Desktop.png) <br>
 
 Se introduce TestFlight para Mac, lo que permite probar aplicaciones mobiles. Se introduce Shortcuts para Mac, permitiendo así crear macros para correr procesos específicos en el dispositivo, además de compartirlos. Cambios en FaceTime como modo retrato o cancelación de ruido, también la opción de compartir pantalla. Se agregan bases para utilizar el control universal, lo que permite utilizar los mismos dispositivos como mouse y teclado a traves de diversos dispositivos como iPad y Mac. Medidas de privacidad como focus para manejo de notificaciones, aviso de uso de cámara o microfono. Soporte para AirPlay desde otros dispositivos hacia la Mac. 
 
 ### Mac OS 13 (Ventura) Octubre 2022
 
-![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/7/70/MacOS_Ventura_Desktop.png) <br>
+![Os 13](https://upload.wikimedia.org/wikipedia/en/7/70/MacOS_Ventura_Desktop.png) <br>
 
 Se agregan apps de clima y reloj de iPad y iOS. Freeform, una app que sirve de pizarron virtual en el que pueden colaborar varias personas de forma simultanea. Se agrega la habilidad de cambiar entre dispositivos en una llamada de FaceTime. Edición en mensajes permitida.
 
@@ -140,10 +140,44 @@ Widgets utilizables en toda la pantalla. Pantalla de bloqueo similar a la de iOS
 
 # Comandos de la terminal de Unix
 
-cd- cambiar de directorio<br>
-mkdir- crear directorio<br>
-touch . [nombre.tipo_de_archivo]- crear archivo <br>
-cp [nombre del archivo]- copiar archivo<br>
+- cd: Cambiar de directorio
+- mkdir: Crear directorio
+- touch [nombre.tipo_de_archivo]: Crear archivo
+- cp [nombre del archivo]: Copiar archivo
+- cp -r: Copia los archivos de un directorio
+- pwd: Dice el nombre del Path Working Directory 
+- history: Muestra el historial de comandos
+- ls: Muestra los archivos dentro de un directorio
+- ls -la: Agrega informacion extra y archivos ocultos
+- vim fileName: Abre el archivo con el editor de texto vim
+- rm fileName: Elimina un archivo con el nombre indicado
+- rm -r: Borra el directorio
+
+## Comandos git
+- git init: Inicia repositorio de git
+- git add . : Agrega todos los cambios
+- git add fileName: Agrega cambios al documento
+- git commit -m: Guarda el cambio del repositorio listo para subir
+- git push: Envia nuestros cambios
+
+# Dispositivos de Entrada y Salida
+## Entrada
+Son los encargados de introducir datos en la memoria de la computadora. Se transforma la información de entrada en señales eléctricas. Ej. Teclado, mouse, cámara, micrófono. <br>
+
+![Teclado](https://cdn.pixabay.com/photo/2015/05/26/23/52/technology-785742_1280.jpg) <br>
+
+![Monitor](https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png) <br>
+
+## Salida
+Son los que ayudan a presentar la información del sistema al usuario de forma que se comprenda, puede ser por medio de imagenes, texto, sonidos, estímulos, etc. Estos dispositivos obtienen información de la memoria central y la exteriorizan. Ej. Bocinas, monitor, impresora.
+
+![Impresora](https://cdn.pixabay.com/photo/2013/07/12/13/58/inkjet-147674_1280.png) <br>
+
+![Bocinas](https://cdn.pixabay.com/photo/2013/07/13/11/33/loudspeaker-158394_1280.png) <br>
+
+## Mixtos
+Son dispositivos que permiten tanto la entrada como la salidad de información de la memoria central. Ej. Impresora con escaner, dispositivos con pantalla tactil. 
+
 
 
 
