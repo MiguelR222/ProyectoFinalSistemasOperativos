@@ -331,3 +331,56 @@ Bill Gates cofundó Microsoft en 1975 y su enfoque inicial fue el desarrollo de 
 Steve Jobs lidero el desarrollo de macOS para computadoras y iOS para dispositivos móviles. Con la Macintosh, presentó una interfaz gráfica revolucionaria en los años 80, sentando las bases para el actual macOS, enfocado en la experiencia del usuario y la integración con el hardware de Apple. Además, su mayor impacto llegó con iOS en el iPhone en 2007, cambiando el panorama de los teléfonos inteligentes con una interfaz táctil intuitiva y un sólido ecosistema de aplicaciones. Su énfasis en la simplicidad, el diseño y la integración entre hardware y software sigue influyendo en la forma en que se desarrollan y perciben los sistemas operativos.
 
 <br> ![bs](https://imgs.search.brave.com/tqAe7-7Oqya4rTtUOKc8r65cHz5onsakdmUQq2FMWhM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LmF1/c3RpbmdlbnRyeS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDgvam9icy1q/cGcuanBnP2ZpdD0x/MTAwLDY0NCZzc2w9/MQ) <br>
+
+# Tutorial para instalar Linux dual boot mediante USB
+## Instalacion de los recursos necesarios
+1. Primero descargaremos el archivo .iso del siguiente link. https://ubuntu.com/download/desktop
+<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo13.png) <br>
+
+2. Seguido de esto descargaremos el software Universal USB installer del siguiente link.<br>
+https://pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo14.png) <br>
+
+3. Una vez instalado insertaremos la USB con la cual instalaremos el sistema operativo.
+Despues seleccionaremos la distribucion que queremos instalar en la casilla de paso 1, en la casilla de paso 2 agregaremos el .iso de la distribucion y en la casilla del paso 3 seleccionaremos la USB en la cual queremos instalar el sistema operativo seguido de esto haremos clic en la opcion de crear. 
+<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo15.png) <br>
+
+4. Despues de esto haremos click en la opcion de si para instalar linux.
+<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo16.png) <br>
+
+5. Despues de realizar los pasos anteriores tendremos una pantalla en la cual veremos el proceso de instalacion de linux en la memoria USB, una vez completado el proceso tendremos instalado correctamente el sistema operativo en nuestra USB.
+<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo17.png) <br>
+
+## instalacion de linux en nuestro sistema 
+
+6. Investigaremos cual es la tecla para obtener el menu de booteo en nuestro equipo y una vez que sepamos cual es apagaremos el equipo para encenderlo de nuevo y presionar la tecla mientras enciende para entrar en el menu de booteo.
+<br> ![bloques](./img/boot.png) <br>
+
+7. Una vez que estemos en el menu de booteo seleccionaremos la USB donde tenemos el sistema operativo y la iniciaremos.
+
+8. Si realizamos todos los pasos de manera correcta se iniciara la instalacion de ubuntu donde tendremos esto como primera pantalla.
+<br> ![bs](https://www.thomas-krenn.com/en/wikiEN/images/1/14/Ubuntu-desktop-installation-english-001.png) <br>
+
+9. En esta pantalla seleccionaremos la opcion de instalar ubuntu al igual que el lenguaje preferido.
+
+10. Seguido de esto nos pedira la preferencia del teclado, seleccionaremos la que mas nos agrade.
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install2.png) <br>
+
+11. Seguido de esto tendremos que elegir entre el tipo de instalacion (es recomendado utilizar la instalacion normal debido a que es mas completa) al igual que nos brindara otras opciones como descargar actualizaciones al instalar ubuntu y programas de terceros(estas opciones son recomendables en caso de haber establecido una conexion a internet en la mayoria de los casos).
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install3.png) <br> 
+
+12. Seguido de esto nos brindara la opcion de instalar ubuntu junto a windows en caso de instalar dentro de la misma computadora, aqui seleccionaremos esa opcion y daremos aceptar.
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install11.png) <br> 
+
+13. Seguido de esto nos abrira un menu en el cual podemos darle los recursos que nosotros queramos a cada uno de los sistemas, se recomienda dejar una amplia cantidad de recursos para ambos sistemas para su mejor rendimiento.
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu-windows.gif) <br> 
+
+14. Seguido de esto seleccionaremos nuestra localizacion para fijar la hora del sistema.
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install6.png) <br> 
+
+15. Una vez realizado la seleccion procederemos a la creacion de usuarios donde llenaremos los datos bajo nuestro criterio (la opcion de nombre de equipo se rellena automaticamente pero puede ser editado en caso de asi desearlo).
+<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install7.png) <br> 
+
+16. Una vez realizado esto habremos terminado con nuestra instalacion. 
+
+17. Pasos extras: una vez establecida una conexion a internet abriremos una terminal donde tiraremos los comandos sudo apt update y sudo apt upgrade para actualizar todo en caso de que no se realizara en la instalacion.
