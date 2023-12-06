@@ -235,3 +235,23 @@ Localidad espacial: lleva datos contiguos a los niveles proximos del procesador 
 Bloques: Es una unidad minima de intercambio de informacion entre el cache y la memoria principal, utilizando este metodo se reduce los tiempos de acceso a los datos haciendolo mas rapida.<br>
 
 ![bloques](./img/bloques.png)<br>
+
+# Virtualizacion de CPU
+La virtualizacion de CPU es referente a una la tecnologia que permite ejecutar varias maquinas virtuales con distintos sistemas operativos dentro de la misma maquina fisica para cumplir con metas distintas segun las necesidades del usuario. El ejemplo mas comun son las virtual machines.
+
+<br> ![vr](https://imgs.search.brave.com/CLmv5R6R2h4nRSgMdvAAQ4CR04DDx5FXa7zkpyWoT_k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDYvVmlydHVh/bEJveC5wbmc) <br>
+
+# Virtualizacion de memoria
+La virtualización de memoria es cuando se combinan los recursos individuales de memoria RAM de una red en un único grupo de memoria. Este proceso amplía la capacidad de memoria y permite que la unidad de disco funcione como una extensión de la memoria principal.<br>
+Ejemplo:
+<br> ![vr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/450px-Virtual_address_space_and_physical_address_space_relationship.svg.png) <br>
+
+# Concurrencia
+La concurrencia se refiere a la habilidad de ejecutar múltiples procesos o hilos de ejecución simultáneamente. Esta capacidad permite una ejecución eficiente y efectiva de diversas tareas, de esta manera optimizando la utilización de recursos.
+<br>Ejemplo:<br>
+<br> ![cn](https://imgs.search.brave.com/CanSkN7tizntaaJnqiz4MsB0RUrXwI43fW1VzZhoQHU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/b3NjYXJibGFuY2Fy/dGVibG9nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/My8xLTEucG5n) <br>
+
+# Persistencia
+se refiere a la capacidad de conservar y mantener el estado o los datos de una aplicación o sistema a lo largo del tiempo. los ejemplos mas comunes serian las bases de datos almacenando grandes cantidades de datos o las cookies en los navegadores para guardar informacion sobre la navegacion.
+
+<br> ![bs](https://imgs.search.brave.com/qFHzTaSMqUvfXXKSuEIQ_VS84Vxm06ZSo5V1fn8iRAY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2FjL0Nvb2tpZWVl/ZS5wbmc) <br>
