@@ -109,6 +109,43 @@ APFS se covierte en el sistema de archivos por defecto.
 
 Se retira integración con Facebook, Twitter, Vimeo y Flickr. Se agrega el group FaceTime, en el que se puede hacer video llamada con hasta 32 personas.
 
+# Algoritmos de planeacion
+1. First Come First Served(FCFS):<br>
+Es un algoritmo que utiliza una fila de procesos determinando el funcionamiento de cada proceso en el orden de llegada.
+La ejecicion del proceso no es interrumpida por otra llegada, este se ejecuta hasta terminarse.<br>
+Ejemplo:
+<br>
+![fcfs](./img/fcfs.png)
+<br>
+
+2. Shortest job first(SJF):<br>
+Es un proceso el cual puede cambiar voluntariamente de estado dependiendo de los nuevos requests que se hagan, convirtiendolo en un proceso el cual no el tiempo de ejecucion no es determinado, cambiando entre procesos prioretizando a los que tengan un tiempo mas corto de completacion. si dos o mas procesos cuentan con el mismo tiempo de completacion se utiliza un algoritmo de FCFS.
+<br>Ejemplo:
+![sjf](https://webplusvalencia.es/wp-content/uploads/2020/08/dise%C3%B1o-web-min.png)
+<br>
+
+3. Planificador por turno rotatorio(Round Robin):
+<br>
+Es un algoritmo donde se determina el mismo tiempo para la ejecucion de todos los procesos. Si un proceso no puede ejecutarse por completo en el tiempo asignado su ejecucion sera despues de la ejecucion de todos los procesos que se ejecuten con el tiempo asignado. Este proceso esta fundamentado por FCFS y ordena la cola de procesos circularmente cuando se hallan en estados listos.
+<br>
+Ejemplo:
+<br>![round](https://webplusvalencia.es/wp-content/uploads/2020/08/contenido-web-min.png)<br>
+4. Planificacion por prioridad:<br>
+Esta planificación se caracteriza porque a cada proceso se le asigna una prioridad y se continúan con un criterio determinado. Los procesos serán atendidos de acuerdo con la prioridad determinada.<br>
+Ejemplo:
+<br>
+![pri](./img/pri.png)
+<br>
+
+5. Planificacion garantizada:<br>
+En este algoritmo el sistema se enfoca en la cantidad de usuarios que se debe de atenter dando las particiones reales en base a la cantidad de usuarios.
+
+6. Planificacion de colas multiples:<br>
+El algoritmo derivado del MQS (Multilevel Queue Scheduling) fragmenta la cola de procesos en estado de listos en múltiples colas más pequeñas. Los procesos se distribuyen en estas colas según un criterio específico que define en cuál de ellas serán ubicados cuando estén listos para ejecutarse
+<br> Ejemplo:
+<br>![mt](./img/mt.png)<br>
+
+
 
 
 
