@@ -137,6 +137,28 @@ Se agregan apps de clima y reloj de iPad y iOS. Freeform, una app que sirve de p
 
 Widgets utilizables en toda la pantalla. Pantalla de bloqueo similar a la de iOS y iPadOS, con reloj y fecha. Se podrán portar juegos de Windows a macOS. 
 
+# Historia de Ubuntu
+## Debian 
+Su historia comienza en 1993 de la mano de Ian Murdock, y su primera distribución estable fue publicada en Junio de 1996.
+## Ubuntu
+Comienza cuando Mark Shuttleworth junta a un grupo de desarrolladores de Debian con el propósito de crear una distribución de Linux que fuera fácil de utilizar. Ubuntu publica nuevas versiones cada 6 meses aproximadamente, las cuales reciben soporte por los siguientes 9 meses, en un inicio eran 18. Actualmente se cuenta con versiones LTS (Long term support), que son versiones publicadas cada 4 lanzamientos, estas cuentan con soporte gratuito por los siguientes 5 años a su publicación. 
+## Primera Version
+### Ubuntu 4.10 (Warthy Warthog) 
+Publicada el 20 de octubre de 2004. Permitía a los usuarios ordenar CDs gratis en donde venía el sistema para su instalación. Contaba con programas como OpenOffice.org 1.1.8, Mozilla Firefox 0.9, etc. En la versión de servidor se incluía MySQL 4.0, Python 2.3, etc.
+<br>
+
+![Os 13](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ubuntu-desktop-2-410-20080706.png/220px-Ubuntu-desktop-2-410-20080706.png) <br>
+
+## Versiones LTS
+### Ubuntu 6.06 (Dapper Drake)
+Presentada el 1 de Junio de 2006. Con soporte por 3 años en su version de escritorio y 5 en servidor. Se instalaba con CD. Proceso de apagado gráfico. NetworkManager para cambiar entre redes alámbricas e inalámbricas. Acomodo del system path.
+
+### Ubuntu 8.08 (Hardy Heron)
+Instalación más pesada, requería de 348 MB de memoria para la instalación por CD. Por su tamaño partes del programa de OpenOffice.org y de la instalación de Java no venían en el CD. Permitía actualizar versiones anteriores de forma sencilla.
+
+### Ubuntu 10.04 (Lucid Lynx)
+
+
 
 # Comandos de la terminal de Unix
 
@@ -289,36 +311,36 @@ Bloques: Es una unidad minima de intercambio de informacion entre el cache y la 
 ![bloques](./img/bloques.png)<br>
 
 # Virtualizacion de CPU
-La virtualizacion de CPU es referente a una la tecnologia que permite ejecutar varias maquinas virtuales con distintos sistemas operativos dentro de la misma maquina fisica para cumplir con metas distintas segun las necesidades del usuario. El ejemplo mas comun son las virtual machines.
+La virtualizacion de CPU es referente a una la tecnologia que permite ejecutar varias maquinas virtuales con distintos sistemas operativos dentro de la misma maquina fisica para cumplir con metas distintas segun las necesidades del usuario. El ejemplo mas comun son las virtual machines.<br> 
 
-<br> ![vr](https://imgs.search.brave.com/CLmv5R6R2h4nRSgMdvAAQ4CR04DDx5FXa7zkpyWoT_k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDYvVmlydHVh/bEJveC5wbmc) <br>
+![vr](https://imgs.search.brave.com/CLmv5R6R2h4nRSgMdvAAQ4CR04DDx5FXa7zkpyWoT_k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9iMmMt/Y29udGVudGh1Yi5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDYvVmlydHVh/bEJveC5wbmc) <br>
 
 # Virtualizacion de memoria
 La virtualización de memoria es cuando se combinan los recursos individuales de memoria RAM de una red en un único grupo de memoria. Este proceso amplía la capacidad de memoria y permite que la unidad de disco funcione como una extensión de la memoria principal.<br>
-Ejemplo:
-<br> ![vr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/450px-Virtual_address_space_and_physical_address_space_relationship.svg.png) <br>
+EjemploÑ <br> 
+
+![vr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/450px-Virtual_address_space_and_physical_address_space_relationship.svg.png) <br>
 
 # Concurrencia
 La concurrencia se refiere a la habilidad de ejecutar múltiples procesos o hilos de ejecución simultáneamente. Esta capacidad permite una ejecución eficiente y efectiva de diversas tareas, de esta manera optimizando la utilización de recursos.
 <br>Ejemplo:<br>
-<br> ![cn](https://imgs.search.brave.com/CanSkN7tizntaaJnqiz4MsB0RUrXwI43fW1VzZhoQHU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/b3NjYXJibGFuY2Fy/dGVibG9nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/My8xLTEucG5n) <br>
+
+![cn](https://imgs.search.brave.com/CanSkN7tizntaaJnqiz4MsB0RUrXwI43fW1VzZhoQHU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/b3NjYXJibGFuY2Fy/dGVibG9nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNy8w/My8xLTEucG5n) <br>
 
 # Persistencia
-se refiere a la capacidad de conservar y mantener el estado o los datos de una aplicación o sistema a lo largo del tiempo. los ejemplos mas comunes serian las bases de datos almacenando grandes cantidades de datos o las cookies en los navegadores para guardar informacion sobre la navegacion.
-
-<br> ![bs](https://imgs.search.brave.com/qFHzTaSMqUvfXXKSuEIQ_VS84Vxm06ZSo5V1fn8iRAY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2FjL0Nvb2tpZWVl/ZS5wbmc) <br>
+se refiere a la capacidad de conservar y mantener el estado o los datos de una aplicación o sistema a lo largo del tiempo. los ejemplos mas comunes serian las bases de datos almacenando grandes cantidades de datos o las cookies en los navegadores para guardar informacion sobre la navegacion.<br> 
+![bs](https://imgs.search.brave.com/qFHzTaSMqUvfXXKSuEIQ_VS84Vxm06ZSo5V1fn8iRAY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2FjL0Nvb2tpZWVl/ZS5wbmc) <br>
 
 # Personajes historicos para los sistemas operativos
 ## Denis Ritchie
 
-Dennis Ritchie, en colaboración con Kenneth Thompson, desarrolló Unix, un sistema operativo que no estaba limitado a hardware específico. Basándose en el lenguaje B de Thompson, Ritchie creó el lenguaje de programación C, el cual fue fundamental para reescribir el sistema Unix en este nuevo lenguaje. Su trabajo revolucionario no solo consistió en la creación de un sistema operativo versátil, sino también en la construcción de un lenguaje de programación poderoso y portable que ha influido significativamente en el desarrollo de software hasta la actualidad. Este enfoque en la portabilidad y la flexibilidad ha sido fundamental para la expansión y la adopción generalizada de Unix y C.
+Dennis Ritchie, en colaboración con Kenneth Thompson, desarrolló Unix, un sistema operativo que no estaba limitado a hardware específico. Basándose en el lenguaje B de Thompson, Ritchie creó el lenguaje de programación C, el cual fue fundamental para reescribir el sistema Unix en este nuevo lenguaje. Su trabajo revolucionario no solo consistió en la creación de un sistema operativo versátil, sino también en la construcción de un lenguaje de programación poderoso y portable que ha influido significativamente en el desarrollo de software hasta la actualidad. Este enfoque en la portabilidad y la flexibilidad ha sido fundamental para la expansión y la adopción generalizada de Unix y C.<br> 
 
-<br> ![bs](https://imgs.search.brave.com/P3Zax1BF8E2RDn4yd5rAcEb4trOnFd9ri5JQ3tWZw3c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzIzL0Rlbm5pc19S/aXRjaGllXzIwMTEu/anBn) <br>
+![bs](https://imgs.search.brave.com/P3Zax1BF8E2RDn4yd5rAcEb4trOnFd9ri5JQ3tWZw3c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzIzL0Rlbm5pc19S/aXRjaGllXzIwMTEu/anBn) <br>
 
 ## Linus Torvald
-Es un científico computacional que, en 1991, desarrolló el sistema operativo Linux basándose en Unix debido a su insatisfacción con el sistema de su PC. Decidió inicialmente compartir el código fuente de este sistema operativo en internet, lo que permitió a otros contribuir al proyecto. En 1994, se lanzó la versión 1.0 de Linux. A raíz de este éxito, él y otros programadores idearon git, una herramienta para el manejo de versiones de su sistema de manera online.
-
-<br> ![bs](https://imgs.search.brave.com/RY-VrYJC6uNYM-bMCS1-42HxoRlSeMTB9FJQeTXKSDk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTMy/NTAyNDE0L3Bob3Rv/L2xpbnVzLXRvcnZh/bGRzLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz0zdE1pMGlv/bzFiaHgzSVc3WXQ1/VEI0VWRnN2VFdFVF/OHNuWDlwT1NQRXNn/PQ) <br>
+Es un científico computacional que, en 1991, desarrolló el sistema operativo Linux basándose en Unix debido a su insatisfacción con el sistema de su PC. Decidió inicialmente compartir el código fuente de este sistema operativo en internet, lo que permitió a otros contribuir al proyecto. En 1994, se lanzó la versión 1.0 de Linux. A raíz de este éxito, él y otros programadores idearon git, una herramienta para el manejo de versiones de su sistema de manera online<br> 
+![bs](https://imgs.search.brave.com/RY-VrYJC6uNYM-bMCS1-42HxoRlSeMTB9FJQeTXKSDk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTMy/NTAyNDE0L3Bob3Rv/L2xpbnVzLXRvcnZh/bGRzLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz0zdE1pMGlv/bzFiaHgzSVc3WXQ1/VEI0VWRnN2VFdFVF/OHNuWDlwT1NQRXNn/PQ) <br>
 
 
 ## Bill Gates
@@ -334,52 +356,70 @@ Steve Jobs lidero el desarrollo de macOS para computadoras y iOS para dispositiv
 
 # Tutorial para instalar Linux dual boot mediante USB
 ## Instalacion de los recursos necesarios
-1. Primero descargaremos el archivo .iso del siguiente link. https://ubuntu.com/download/desktop
-<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo13.png) <br>
+1. Primero descargaremos el archivo .iso del siguiente link. https://ubuntu.com/download/desktop<br> 
+![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo13.png) <br>
 
 2. Seguido de esto descargaremos el software Universal USB installer del siguiente link.<br>
-https://pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
-<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo14.png) <br>
+
+https://pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/<br> 
+
+![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo14.png) <br>
 
 3. Una vez instalado insertaremos la USB con la cual instalaremos el sistema operativo.
-Despues seleccionaremos la distribucion que queremos instalar en la casilla de paso 1, en la casilla de paso 2 agregaremos el .iso de la distribucion y en la casilla del paso 3 seleccionaremos la USB en la cual queremos instalar el sistema operativo seguido de esto haremos clic en la opcion de crear. 
-<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo15.png) <br>
+Despues seleccionaremos la distribucion que queremos instalar en la casilla de paso 1, en la casilla de paso 2 agregaremos el .iso de la distribucion y en la casilla del paso 3 seleccionaremos la USB en la cual queremos instalar el sistema operativo seguido de esto haremos clic en la opcion de crear. <br> 
+![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo15.png) <br>
 
-4. Despues de esto haremos click en la opcion de si para instalar linux.
-<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo16.png) <br>
+4. Despues de esto haremos click en la opcion de si para instalar linux.<br> 
+![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo16.png) <br>
 
-5. Despues de realizar los pasos anteriores tendremos una pantalla en la cual veremos el proceso de instalacion de linux en la memoria USB, una vez completado el proceso tendremos instalado correctamente el sistema operativo en nuestra USB.
-<br> ![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo17.png) <br>
+5. Despues de realizar los pasos anteriores tendremos una pantalla en la cual veremos el proceso de instalacion de linux en la memoria USB, una vez completado el proceso tendremos instalado correctamente el sistema operativo en nuestra USB.<br> 
+![bs](https://www.guru99.com/images/2-2017/092017_0628_HowtoDownlo17.png) <br>
 
 ## instalacion de linux en nuestro sistema 
 
 6. Investigaremos cual es la tecla para obtener el menu de booteo en nuestro equipo y una vez que sepamos cual es apagaremos el equipo para encenderlo de nuevo y presionar la tecla mientras enciende para entrar en el menu de booteo.
-<br> ![bloques](./img/boot.png) <br>
+<br> 
+
+![bloques](./img/boot.png) <br>
 
 7. Una vez que estemos en el menu de booteo seleccionaremos la USB donde tenemos el sistema operativo y la iniciaremos.
 
 8. Si realizamos todos los pasos de manera correcta se iniciara la instalacion de ubuntu donde tendremos esto como primera pantalla.
-<br> ![bs](https://www.thomas-krenn.com/en/wikiEN/images/1/14/Ubuntu-desktop-installation-english-001.png) <br>
+<br> 
+
+![bs](https://www.thomas-krenn.com/en/wikiEN/images/1/14/Ubuntu-desktop-installation-english-001.png) <br>
 
 9. En esta pantalla seleccionaremos la opcion de instalar ubuntu al igual que el lenguaje preferido.
 
 10. Seguido de esto nos pedira la preferencia del teclado, seleccionaremos la que mas nos agrade.
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install2.png) <br>
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install2.png) <br>
 
 11. Seguido de esto tendremos que elegir entre el tipo de instalacion (es recomendado utilizar la instalacion normal debido a que es mas completa) al igual que nos brindara otras opciones como descargar actualizaciones al instalar ubuntu y programas de terceros(estas opciones son recomendables en caso de haber establecido una conexion a internet en la mayoria de los casos).
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install3.png) <br> 
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install3.png) <br> 
 
 12. Seguido de esto nos brindara la opcion de instalar ubuntu junto a windows en caso de instalar dentro de la misma computadora, aqui seleccionaremos esa opcion y daremos aceptar.
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install11.png) <br> 
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install11.png) <br> 
 
 13. Seguido de esto nos abrira un menu en el cual podemos darle los recursos que nosotros queramos a cada uno de los sistemas, se recomienda dejar una amplia cantidad de recursos para ambos sistemas para su mejor rendimiento.
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu-windows.gif) <br> 
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu-windows.gif) <br> 
 
 14. Seguido de esto seleccionaremos nuestra localizacion para fijar la hora del sistema.
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install6.png) <br> 
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install6.png) <br> 
 
 15. Una vez realizado la seleccion procederemos a la creacion de usuarios donde llenaremos los datos bajo nuestro criterio (la opcion de nombre de equipo se rellena automaticamente pero puede ser editado en caso de asi desearlo).
-<br> ![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install7.png) <br> 
+<br> 
+
+![bs](https://www.muylinux.com/wp-content/uploads/2018/06/ubuntu_install7.png) <br> 
 
 16. Una vez realizado esto habremos terminado con nuestra instalacion. 
 
