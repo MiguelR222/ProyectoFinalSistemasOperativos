@@ -189,6 +189,11 @@ Microsoft inicialmente desarrolló MS-DOS, un sistema operativo basado en texto 
 <br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ms-dosdir.png/330px-Ms-dosdir.png) <br>
 <br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MS-DOS_Ejecutivo_de_Windows_1.03.png/330px-MS-DOS_Ejecutivo_de_Windows_1.03.png) <br>
 
+## Windows 2.0
+Dos años después, en noviembre de 1987, se lanzó Windows 2.0. Esta versión se actualizó rápidamente a la v2.03 e introdujo la novedad de ventanas superpuestas, un paso significativo en la evolución del sistema. Además, por primera vez, incluía utilidades que sentaron las bases de las herramientas de ofimática contemporáneas. Fue la primera versión en incorporar el procesador de textos Microsoft Word y la hoja de cálculo Microsoft Excel.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/windows2-1.png) <br>
+
 ## Windows 3.0 y 3.1
 En 1990, Microsoft lanzó Windows 3.0, que fue un gran avance. Introdujo mejoras significativas en la interfaz gráfica y la multitarea. La versión 3.1, lanzada en 1992, mejoró la estabilidad y rendimiento.
 
