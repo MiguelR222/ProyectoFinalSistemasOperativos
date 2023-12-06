@@ -289,3 +289,27 @@ La concurrencia se refiere a la habilidad de ejecutar múltiples procesos o hilo
 se refiere a la capacidad de conservar y mantener el estado o los datos de una aplicación o sistema a lo largo del tiempo. los ejemplos mas comunes serian las bases de datos almacenando grandes cantidades de datos o las cookies en los navegadores para guardar informacion sobre la navegacion.
 
 <br> ![bs](https://imgs.search.brave.com/qFHzTaSMqUvfXXKSuEIQ_VS84Vxm06ZSo5V1fn8iRAY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2FjL0Nvb2tpZWVl/ZS5wbmc) <br>
+
+# Personajes historicos para los sistemas operativos
+## Denis Ritchie
+
+Dennis Ritchie, en colaboración con Kenneth Thompson, desarrolló Unix, un sistema operativo que no estaba limitado a hardware específico. Basándose en el lenguaje B de Thompson, Ritchie creó el lenguaje de programación C, el cual fue fundamental para reescribir el sistema Unix en este nuevo lenguaje. Su trabajo revolucionario no solo consistió en la creación de un sistema operativo versátil, sino también en la construcción de un lenguaje de programación poderoso y portable que ha influido significativamente en el desarrollo de software hasta la actualidad. Este enfoque en la portabilidad y la flexibilidad ha sido fundamental para la expansión y la adopción generalizada de Unix y C.
+
+<br> ![bs](https://imgs.search.brave.com/P3Zax1BF8E2RDn4yd5rAcEb4trOnFd9ri5JQ3tWZw3c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzIzL0Rlbm5pc19S/aXRjaGllXzIwMTEu/anBn) <br>
+
+## Linus Torvald
+Es un científico computacional que, en 1991, desarrolló el sistema operativo Linux basándose en Unix debido a su insatisfacción con el sistema de su PC. Decidió inicialmente compartir el código fuente de este sistema operativo en internet, lo que permitió a otros contribuir al proyecto. En 1994, se lanzó la versión 1.0 de Linux. A raíz de este éxito, él y otros programadores idearon git, una herramienta para el manejo de versiones de su sistema de manera online.
+
+<br> ![bs](https://imgs.search.brave.com/RY-VrYJC6uNYM-bMCS1-42HxoRlSeMTB9FJQeTXKSDk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTMy/NTAyNDE0L3Bob3Rv/L2xpbnVzLXRvcnZh/bGRzLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz0zdE1pMGlv/bzFiaHgzSVc3WXQ1/VEI0VWRnN2VFdFVF/OHNuWDlwT1NQRXNn/PQ) <br>
+
+
+## Bill Gates
+Bill Gates cofundó Microsoft en 1975 y su enfoque inicial fue el desarrollo de software. En los años 80, con el acuerdo con IBM, adaptaron un sistema operativo existente para convertirlo en MS-DOS, el cual se convirtió en un estándar para las computadoras personales. El gran salto llegó con Windows en 1985, que introdujo una interfaz gráfica de usuario, facilitando el uso de las computadoras para todos. Esta visión de sistemas operativos más accesibles y amigables con el usuario llevó a Windows a ser líder en la industria de las PCs y dejó una marca duradera en la informática moderna.
+
+<br> ![bs](https://www.biografiasyvidas.com/biografia/g/fotos/gates_bill_1.jpg) <br>
+
+## Steve Jobs
+
+Steve Jobs lidero el desarrollo de macOS para computadoras y iOS para dispositivos móviles. Con la Macintosh, presentó una interfaz gráfica revolucionaria en los años 80, sentando las bases para el actual macOS, enfocado en la experiencia del usuario y la integración con el hardware de Apple. Además, su mayor impacto llegó con iOS en el iPhone en 2007, cambiando el panorama de los teléfonos inteligentes con una interfaz táctil intuitiva y un sólido ecosistema de aplicaciones. Su énfasis en la simplicidad, el diseño y la integración entre hardware y software sigue influyendo en la forma en que se desarrollan y perciben los sistemas operativos.
+
+<br> ![bs](https://imgs.search.brave.com/tqAe7-7Oqya4rTtUOKc8r65cHz5onsakdmUQq2FMWhM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LmF1/c3RpbmdlbnRyeS5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDgvam9icy1q/cGcuanBnP2ZpdD0x/MTAwLDY0NCZzc2w9/MQ) <br>
