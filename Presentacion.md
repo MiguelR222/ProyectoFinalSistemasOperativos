@@ -182,6 +182,75 @@ Instalación más pesada, requería de 348 MB de memoria para la instalación po
 - git commit -m: Guarda el cambio del repositorio listo para subir
 - git push: Envia nuestros cambios
 
+# Historia de Windows
+La historia de Windows es bastante extensa y se remonta a finales de la década de 1970 cuando Microsoft fue fundada por Bill Gates y Paul Allen. Aunque la versión inicial de Windows se lanzó en 1985, su historia se puede dividir en varias etapas clave:
+
+## MS-DOS y Windows 1.0
+Microsoft inicialmente desarrolló MS-DOS, un sistema operativo basado en texto para las primeras computadoras personales. En 1985, lanzaron Windows 1.0, que ofrecía una interfaz gráfica limitada con ventanas superpuestas y menús desplegables.
+
+<br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ms-dosdir.png/330px-Ms-dosdir.png) <br>
+<br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MS-DOS_Ejecutivo_de_Windows_1.03.png/330px-MS-DOS_Ejecutivo_de_Windows_1.03.png) <br>
+
+## Windows 3.0 y 3.1
+En 1990, Microsoft lanzó Windows 3.0, que fue un gran avance. Introdujo mejoras significativas en la interfaz gráfica y la multitarea. La versión 3.1, lanzada en 1992, mejoró la estabilidad y rendimiento.
+
+<br> ![cn](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Windows_3.0_29_12_2020_11_03_55_GER.png/330px-Windows_3.0_29_12_2020_11_03_55_GER.png) <br>
+
+## windows 95
+Fue un hito importante en la historia de Windows, lanzado en 1995. Introdujo el famoso botón de "Inicio", el escritorio con íconos, el menú de inicio y una mayor facilidad de uso. Además, fue el primer Windows que tuvo un éxito masivo.
+
+<br> ![cn](https://imgs.search.brave.com/R-YGtVfv27jgX8bnkCoUKbd5oyzSbMprHPM44E2nFvk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L21p/Y3Jvc29mdC9pbWFn/ZXMvOS85MS9XaW5k/b3dzXzk1X0Rlc2t0/b3Bfc2NyZWVuc2hv/dC5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMzAwP2Ni/PTIwMTMxMjI0MTMw/NDEyJnBhdGgtcHJl/Zml4PWVz) <br>
+
+## Windows NT Server
+Se trata de un sistema operativo para servidores que vio la luz por primera vez en julio de 1993. Su principal característica radica en su capacidad de expansión y su independencia de la plataforma y hardware. Compatible con procesadores Intel x86, RISC y DEC Alpha, permitía a los usuarios seleccionar sus sistemas informáticos. Destacado por su enfoque en estaciones de trabajo y servidores de red.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/Windows-NT-Server-768x512.jpg) <br>
+
+## Windows 98
+Antes de Windows 98, se sucedieron distintas versiones del Windows 95 llamadas NT, diseñadas específicamente para entornos empresariales e industriales. Tres años después, el 25 de junio de 1998, Microsoft lanzó una nueva edición de su sistema operativo: Windows 98. Al igual que su predecesor, el nombre derivaba del año de lanzamiento y esta versión presentaba el sistema de archivos FAT32, enfocado en mejorar el acceso a la red. Además, introdujo la compatibilidad con lectores de DVD y la incorporación de los primeros puertos USB.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2015/11/Windows-98-443x332.png) <br>
+
+## Windows 2000
+El 29 de marzo de 1999, se lanzó el sistema operativo NT 5.0 EUR Edition, que básicamente era la versión alemana del Windows NET 5.0 y más tarde fue renombrado como Windows 2000. Este sistema fue parte de la línea profesional de Microsoft, orientado a proporcionar un rendimiento óptimo para usuarios avanzados y profesionales que utilizaban programas de alto rendimiento. Parte del código fuente de esta versión se filtró en Internet, lo que llevó a la compañía a emplear su núcleo para desarrollar la nueva versión del sistema operativo.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/w2000.jpg) <br>
+
+
+## Windows Me 
+Windows Millennium, lanzado por Microsoft el 14 de septiembre de 2000, fue una versión del sistema operativo en formato gráfico híbrido de 16/32 bits. Este sistema fue específicamente diseñado para los usuarios de PC. A pesar de seguir a versiones maduras como Windows 95 y Windows 98, no logró la aceptación esperada debido a sus continuos errores, como los conocidos pantallazos azules, y las desventajas en su uso.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/windowsME.png) <br>
+
+## Windows XP
+Lanzado en 2001, XP fue muy popular por su estabilidad y facilidad de uso. Fue una versión significativa que introdujo una interfaz más moderna y mejoró la seguridad.
+<br> ![cn](https://imgs.search.brave.com/zXyRYMghD8SctL1d_RaPffzh83pF8Se8Nt6GzoJFQ8g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2N0YXNz/ZXRzL3RvcGljcy80/MC94cF9kZXNrdG9w/LmpwZw) <br>
+
+## Windows Vista y 7
+Vista, lanzado en 2007, tuvo una recepción mixta debido a problemas de rendimiento y compatibilidad. Windows 7, lanzado en 2009, corrigió muchos de estos problemas y se convirtió en una de las versiones más queridas.
+
+<br> ![cn](https://imgs.search.brave.com/EyPxjjKLV6Bwk09XgU8NLNKbBK3n_fUT9-KiJh05qoI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlmZXdpcmUuY29t/L3RobWIvaXRVV2tx/dVpzUUE5el9CcnJ6/OTIxZ1BGUXZzPS8x/NTAweDAvZmlsdGVy/czpub191cHNjYWxl/KCk6bWF4X2J5dGVz/KDE1MDAwMCk6c3Ry/aXBfaWNjKCkvV2lu/ZG93c19WaXN0YS01/N2M5NTY5NzNkZjc4/YzcxYjYwNmU4NmYu/cG5n) <br>
+
+<br> ![cn](https://imgs.search.brave.com/OFc1GAbTcRNzfp9zXmsB-vV0afw6WC-xh91v7nxMhwk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/d2luZG93c2xhdGVz/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMDEvV2lu/ZG93cy03LWRlc2t0/b3AtNjk2eDQzNS5q/cGc) <br>
+
+## Windows 8 y 8.1
+Estos sistemas operativos, lanzados en 2012 y 2013 respectivamente, presentaron una interfaz radicalmente diferente, con un énfasis en pantallas táctiles. Sin embargo, la recepción fue mixta debido a la curva de aprendizaje y la ausencia del botón de inicio.
+
+<br> ![cn](https://imgs.search.brave.com/9phgLYEzchzrl6hLM2QdLQBHEpVwjtpAtkzRVrPqLSw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zY3Jl/ZW5zaG90cy5kZ3Rj/ZG4ubmV0L2ltYWdl/cy90X2FwcC1jb3Zl/ci1zLGZfYXV0by9w/LzMxNTkwNmI2LTk2/ZDAtMTFlNi05YWU2/LTAwMTYzZWQ4MzNl/Ny8xMTU4NTM4MzU0/L3dpbmRvd3MtOC0y/MDE5LTA3LTE1XzE4/LTUzLTU1LnBuZw) <br>
+
+## Windows 10
+En julio de 2015, Microsoft lanzó Windows 10, su versión más reciente antes de Windows 11 en 2021. Esta versión destacó por su amplia gama de aplicaciones, una interfaz moderna y eficiente, y su capacidad multiplataforma, adaptable a computadoras y dispositivos móviles.
+
+Windows 10 introdujo novedades como aplicaciones universales, el navegador Edge, el asistente Cortana, una nueva página de configuración, la función TimeLine y el regreso del deseado menú de inicio. Muchos consideraron esta versión como la mejor en la historia del sistema operativo, adaptada a las necesidades actuales de los usuarios.
+
+<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/w10.jpg) <br>
+
+## Windows 11
+
+La versión más reciente del conocido sistema operativo es Windows 11, sucesor de Windows 10. Lanzado el 5 de octubre de 2021, ofrece un nuevo diseño visual, mejoras en rendimiento y una experiencia de uso más intuitiva
+
+<br> ![cn](https://imgs.search.brave.com/H0uaelkTO6hIkC0X6mpZRyFp2ea5wutxNCy9_8aPL7w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzE0ZmQy/OC9zY3JlZW5zaG90/XzcvNDUwXzEwMDAu/d2VicA) <br>
+
 # Dispositivos de Entrada y Salida
 ## Entrada
 Son los encargados de introducir datos en la memoria de la computadora. Se transforma la información de entrada en señales eléctricas. Ej. Teclado, mouse, cámara, micrófono. <br>
