@@ -154,33 +154,31 @@ Publicada el 20 de octubre de 2004. Permitía a los usuarios ordenar CDs gratis 
 Presentada el 1 de Junio de 2006. Con soporte por 3 años en su version de escritorio y 5 en servidor. Se instalaba con CD. Proceso de apagado gráfico. NetworkManager para cambiar entre redes alámbricas e inalámbricas. Acomodo del system path.
 
 ### Ubuntu 8.08 (Hardy Heron)
-Instalación más pesada, requería de 348 MB de memoria para la instalación por CD. Por su tamaño partes del programa de OpenOffice.org y de la instalación de Java no venían en el CD. Permitía actualizar versiones anteriores de forma sencilla.
+24 de abril de 2008. Instalación más pesada, requería de 348 MB de memoria para la instalación por CD. Por su tamaño partes del programa de OpenOffice.org y de la instalación de Java no venían en el CD. Permitía actualizar versiones anteriores de forma sencilla.
 
 ### Ubuntu 10.04 (Lucid Lynx)
+29 de abril de 2010. Incluía soporte para los gráficos de Nvidia con el Nouveau driver. Incluye un editor de video Pitivi. Integración de Facebook y Twitter. 
 
+### Ubuntu 12.04 (Precise Pangolin)
+26 de abril de 2012. A partir de esta versión el soporte se brinda por 5 años a la versión de escritorio y servidor. Cambio en el HUD que permitía buscar aplicaciones sin el uso del mouse.
 
+### Ubuntu 14.04 (Trusty Tahr)
+17 de abril de 2014. Comienza con el soporte de Python 3. En este lanzamiento de Ubuntu se incluyó una versión para tableta, en espacífico para las Nexus.  Incluye LibreOffice.
 
-# Comandos de la terminal de Unix
+### Ubuntu 16.04 (Xenial Xerus)
+21 de abril de 2016. Utiliza Unity. Introduce snap applications. Utiliza Python 3, pero aun incluye soporte para Python 2. Vim reescrito en Python 3.
 
-- cd: Cambiar de directorio
-- mkdir: Crear directorio
-- touch [nombre.tipo_de_archivo]: Crear archivo
-- cp [nombre del archivo]: Copiar archivo
-- cp -r: Copia los archivos de un directorio
-- pwd: Dice el nombre del Path Working Directory 
-- history: Muestra el historial de comandos
-- ls: Muestra los archivos dentro de un directorio
-- ls -la: Agrega informacion extra y archivos ocultos
-- vim fileName: Abre el archivo con el editor de texto vim
-- rm fileName: Elimina un archivo con el nombre indicado
-- rm -r: Borra el directorio
+### Ubuntu 18.04 (Bionic Beaver)
+26 de abril de 2018. Ya no se proveen imagenes de 32 bits. Se deja de usar Unity y se usa GNOME. Se puede imprimir sin drivers. Es la última versión en incluir Python 2 en el main.
 
-## Comandos git
-- git init: Inicia repositorio de git
-- git add . : Agrega todos los cambios
-- git add fileName: Agrega cambios al documento
-- git commit -m: Guarda el cambio del repositorio listo para subir
-- git push: Envia nuestros cambios
+### Ubuntu 20.04 (Focal Fossa)
+23 de abril de 2020. Incluya soporte para nuevos CPUs de Intel, Qualcomm Snapdragon y AMD. Soporte para el sistema de archivos exFat, incluye WireGuarD, un VPN de open source. No incluye Python 2. Instalación de paquetes de la snap store. 
+
+### Ubuntu 22.04 (Jammy Jellyfish)
+21 de abril de 2022. Es la versión de soporte extendido más reciente. Utiliza GNOME y Python 3.10. No incluye los drivers de Nvidia, por lo que es necesario instalarlos.
+<br>
+
+![Os 13](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ubuntu_22.04_LTS_Jammy_Jellyfish.png/220px-Ubuntu_22.04_LTS_Jammy_Jellyfish.png) <br>
 
 # Historia de Windows
 La historia de Windows es bastante extensa y se remonta a finales de la década de 1970 cuando Microsoft fue fundada por Bill Gates y Paul Allen. Aunque la versión inicial de Windows se lanzó en 1985, su historia se puede dividir en varias etapas clave:
@@ -241,15 +239,38 @@ Estos sistemas operativos, lanzados en 2012 y 2013 respectivamente, presentaron 
 ## Windows 10
 En julio de 2015, Microsoft lanzó Windows 10, su versión más reciente antes de Windows 11 en 2021. Esta versión destacó por su amplia gama de aplicaciones, una interfaz moderna y eficiente, y su capacidad multiplataforma, adaptable a computadoras y dispositivos móviles.
 
-Windows 10 introdujo novedades como aplicaciones universales, el navegador Edge, el asistente Cortana, una nueva página de configuración, la función TimeLine y el regreso del deseado menú de inicio. Muchos consideraron esta versión como la mejor en la historia del sistema operativo, adaptada a las necesidades actuales de los usuarios.
+Windows 10 introdujo novedades como aplicaciones universales, el navegador Edge, el asistente Cortana, una nueva página de configuración, la función TimeLine y el regreso del deseado menú de inicio. Muchos consideraron esta versión como la mejor en la historia del sistema operativo, adaptada a las necesidades actuales de los usuarios.<br> 
 
-<br> ![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/w10.jpg) <br>
+![cn](https://www.adslzone.net/app/uploads-adslzone.net/2020/04/w10.jpg) <br>
 
 ## Windows 11
 
-La versión más reciente del conocido sistema operativo es Windows 11, sucesor de Windows 10. Lanzado el 5 de octubre de 2021, ofrece un nuevo diseño visual, mejoras en rendimiento y una experiencia de uso más intuitiva
+La versión más reciente del conocido sistema operativo es Windows 11, sucesor de Windows 10. Lanzado el 5 de octubre de 2021, ofrece un nuevo diseño visual, mejoras en rendimiento y una experiencia de uso más intuitiva<br> 
 
-<br> ![cn](https://imgs.search.brave.com/H0uaelkTO6hIkC0X6mpZRyFp2ea5wutxNCy9_8aPL7w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzE0ZmQy/OC9zY3JlZW5zaG90/XzcvNDUwXzEwMDAu/d2VicA) <br>
+![cn](https://imgs.search.brave.com/H0uaelkTO6hIkC0X6mpZRyFp2ea5wutxNCy9_8aPL7w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmJs/b2dzLmVzLzE0ZmQy/OC9zY3JlZW5zaG90/XzcvNDUwXzEwMDAu/d2VicA) <br>
+
+
+# Comandos de la terminal de Unix
+
+- cd: Cambiar de directorio
+- mkdir: Crear directorio
+- touch [nombre.tipo_de_archivo]: Crear archivo
+- cp [nombre del archivo]: Copiar archivo
+- cp -r: Copia los archivos de un directorio
+- pwd: Dice el nombre del Path Working Directory 
+- history: Muestra el historial de comandos
+- ls: Muestra los archivos dentro de un directorio
+- ls -la: Agrega informacion extra y archivos ocultos
+- vim fileName: Abre el archivo con el editor de texto vim
+- rm fileName: Elimina un archivo con el nombre indicado
+- rm -r: Borra el directorio
+
+## Comandos git
+- git init: Inicia repositorio de git
+- git add . : Agrega todos los cambios
+- git add fileName: Agrega cambios al documento
+- git commit -m: Guarda el cambio del repositorio listo para subir
+- git push: Envia nuestros cambios
 
 # Dispositivos de Entrada y Salida
 ## Entrada
@@ -386,7 +407,7 @@ La virtualizacion de CPU es referente a una la tecnologia que permite ejecutar v
 
 # Virtualizacion de memoria
 La virtualización de memoria es cuando se combinan los recursos individuales de memoria RAM de una red en un único grupo de memoria. Este proceso amplía la capacidad de memoria y permite que la unidad de disco funcione como una extensión de la memoria principal.<br>
-EjemploÑ <br> 
+Ejemplo <br> 
 
 ![vr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Virtual_address_space_and_physical_address_space_relationship.svg/450px-Virtual_address_space_and_physical_address_space_relationship.svg.png) <br>
 
