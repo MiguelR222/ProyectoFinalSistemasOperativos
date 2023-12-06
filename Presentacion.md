@@ -103,11 +103,46 @@ Permite acceder a Siri. Detalla el uso de almacenamiento por aplicación, ademá
 ### Mac OS 10.13 (High Sierra) Septiembre 2017
 
 ![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/9/94/MacOS_High_Sierra_Desktop.png) <br>
+
 APFS se covierte en el sistema de archivos por defecto. 
 
 ### Mac OS 10.14 (Mojave) Septiembre 2018
 
-Se retira integración con Facebook, Twitter, Vimeo y Flickr. Se agrega el group FaceTime, en el que se puede hacer video llamada con hasta 32 personas.
+Se retira integración con Facebook, Twitter, Vimeo y Flickr. Se agrega el group FaceTime, en el que se puede hacer video llamada con hasta 32 personas. Cambios realizados a la Mac App Store para que sea parecida a la de iOS. Se agregan apps de iOS como stocks, home, news.
+
+### Mac OS 10.15 (Catalina) Octubre 2019
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/MacOS_Catalina_Desktop.png/310px-MacOS_Catalina_Desktop.png) <br>
+No soporta apps con arquitectura de 32 bits. Se presenta Catalyst, una herramienta para desarrollo de software que permite hacer aplicaciones nativas para macOS, iOS y iPadOS. Cambios en la seguridad del equipo. Sidecar, permite utilizar una iPad como segunda pantalla de la Mac. Se reemplaza iTunes por las apps de Music, Podcasts, TV y Books.Se juntan Find My Mac y Find My Friends para crear Find My, el servicio utilizado para encontrar dispositivos de la familia de Apple.
+
+### Mac OS 11 (Big Sur) Noviembre 2020
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/6/63/MacOS_Big_Sur_Desktop.png) <br>
+Se incluye el centro de control similar al disponible desde iOS 7. Se incluye soporte para los nuevos chips de apple, los Apple Silicon, comenzando con el M1. A partir de Big Sur se pueden utilizar apps de iOS y de iPadOS de forma nativa. Integra la encriptación a nivel de archivos, anteriormente solo se podian encriptar volumenes enteros.
+
+### Mac OS 12 (Monterrey) Octubre 2021
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/9/98/MacOS_Monterey_Desktop.png) <br>
+
+Se introduce TestFlight para Mac, lo que permite probar aplicaciones mobiles. Se introduce Shortcuts para Mac, permitiendo así crear macros para correr procesos específicos en el dispositivo, además de compartirlos. Cambios en FaceTime como modo retrato o cancelación de ruido, también la opción de compartir pantalla. Se agregan bases para utilizar el control universal, lo que permite utilizar los mismos dispositivos como mouse y teclado a traves de diversos dispositivos como iPad y Mac. Medidas de privacidad como focus para manejo de notificaciones, aviso de uso de cámara o microfono. Soporte para AirPlay desde otros dispositivos hacia la Mac. 
+
+### Mac OS 13 (Ventura) Octubre 2022
+
+![Os X 10.3](https://upload.wikimedia.org/wikipedia/en/7/70/MacOS_Ventura_Desktop.png) <br>
+
+Se agregan apps de clima y reloj de iPad y iOS. Freeform, una app que sirve de pizarron virtual en el que pueden colaborar varias personas de forma simultanea. Se agrega la habilidad de cambiar entre dispositivos en una llamada de FaceTime. Edición en mensajes permitida.
+
+### Mac OS 14 (Sonoma) Septiembre 2023
+
+Widgets utilizables en toda la pantalla. Pantalla de bloqueo similar a la de iOS y iPadOS, con reloj y fecha. Se podrán portar juegos de Windows a macOS. 
+
+
+
+
+
+
+
+
 
 # Algoritmos de planeacion
 1. First Come First Served(FCFS):<br>
@@ -115,12 +150,14 @@ Es un algoritmo que utiliza una fila de procesos determinando el funcionamiento 
 La ejecicion del proceso no es interrumpida por otra llegada, este se ejecuta hasta terminarse.<br>
 Ejemplo:
 <br>
+
 ![fcfs](./img/fcfs.png)
 <br>
 
 2. Shortest job first(SJF):<br>
 Es un proceso el cual puede cambiar voluntariamente de estado dependiendo de los nuevos requests que se hagan, convirtiendolo en un proceso el cual no el tiempo de ejecucion no es determinado, cambiando entre procesos prioretizando a los que tengan un tiempo mas corto de completacion. si dos o mas procesos cuentan con el mismo tiempo de completacion se utiliza un algoritmo de FCFS.
 <br>Ejemplo:
+
 ![sjf](https://webplusvalencia.es/wp-content/uploads/2020/08/dise%C3%B1o-web-min.png)
 <br>
 
@@ -129,11 +166,14 @@ Es un proceso el cual puede cambiar voluntariamente de estado dependiendo de los
 Es un algoritmo donde se determina el mismo tiempo para la ejecucion de todos los procesos. Si un proceso no puede ejecutarse por completo en el tiempo asignado su ejecucion sera despues de la ejecucion de todos los procesos que se ejecuten con el tiempo asignado. Este proceso esta fundamentado por FCFS y ordena la cola de procesos circularmente cuando se hallan en estados listos.
 <br>
 Ejemplo:
-<br>![round](https://webplusvalencia.es/wp-content/uploads/2020/08/contenido-web-min.png)<br>
+<br>
+
+![round](https://webplusvalencia.es/wp-content/uploads/2020/08/contenido-web-min.png)<br>
 4. Planificacion por prioridad:<br>
 Esta planificación se caracteriza porque a cada proceso se le asigna una prioridad y se continúan con un criterio determinado. Los procesos serán atendidos de acuerdo con la prioridad determinada.<br>
 Ejemplo:
 <br>
+
 ![pri](./img/pri.png)
 <br>
 
@@ -142,15 +182,9 @@ En este algoritmo el sistema se enfoca en la cantidad de usuarios que se debe de
 
 6. Planificacion de colas multiples:<br>
 El algoritmo derivado del MQS (Multilevel Queue Scheduling) fragmenta la cola de procesos en estado de listos en múltiples colas más pequeñas. Los procesos se distribuyen en estas colas según un criterio específico que define en cuál de ellas serán ubicados cuando estén listos para ejecutarse
-<br> Ejemplo:
-<br>![mt](./img/mt.png)<br>
+<br> Ejemplo:<br>
 
-
-
-
-
-
-
+![mt](./img/mt.png)<br>
 
 # Almacenamiento
 El almacenamiento de un sistema es la capacidad del mismo para grabar y conservar los datos en algun dispositivo de almacenamiento
