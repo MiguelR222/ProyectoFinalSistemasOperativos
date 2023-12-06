@@ -169,20 +169,38 @@ Son los encargados de introducir datos en la memoria de la computadora. Se trans
 ![Monitor](https://cdn.pixabay.com/photo/2017/05/09/13/33/laptop-2298286_1280.png) <br>
 
 ## Salida
-Son los que ayudan a presentar la información del sistema al usuario de forma que se comprenda, puede ser por medio de imagenes, texto, sonidos, estímulos, etc. Estos dispositivos obtienen información de la memoria central y la exteriorizan. Ej. Bocinas, monitor, impresora.
+Son los que ayudan a presentar la información del sistema al usuario de forma que se comprenda, puede ser por medio de imagenes, texto, sonidos, estímulos, etc. Estos dispositivos obtienen información de la memoria central y la exteriorizan. Ej. Bocinas, monitor, impresora. <br>
 
 ![Impresora](https://cdn.pixabay.com/photo/2013/07/12/13/58/inkjet-147674_1280.png) <br>
 
 ![Bocinas](https://cdn.pixabay.com/photo/2013/07/13/11/33/loudspeaker-158394_1280.png) <br>
 
 ## Mixtos
-Son dispositivos que permiten tanto la entrada como la salidad de información de la memoria central. Ej. Impresora con escaner, dispositivos con pantalla tactil. 
+Son dispositivos que permiten tanto la entrada como la salidad de información de la memoria central. Ej. Impresora con escaner, dispositivos con pantalla tactil. <br>
 
+![Tablet](https://cdn.pixabay.com/photo/2016/04/30/12/31/board-1362851_1280.png) <br>
 
+# Procesos
+Es el nombre que se le da a la ejecución de un programa individual, el cual cuenta con una serie de instrucciones que el procesador debe ejecutar. Un proceso puede ser un programa en ejecución, una instancia de un programa ejecutado y una entidad que se puede asignar y ejecutar en el procesador. 
 
+## Caracteristicas de los procesos
+- Identificador: Cada proceso tiene un ID único que lo diferencía de los demás.
+- Estado: Se refiere a si esta en ejecución, terminado, etc.
+- Prioridad: Es el nivel de prioridad relativo a los demás procesos.
+- Contador de programa: Incluye la dirección de la siguiente instrucción por ejecutar.
+- Punteros de memoria: Punteros al código de memoria, los datos del proceso, además de bloques compartidos con otros procesos.
+- Datos de contexto: Datos en el procesador mientras el proceso está en ejecución.
+- Información de Estado E/S: Peticiones de E/S pendientes, dispositivos asignados, lista de ficheros usados por los procesos.
+- Información de auditoría: Regristros del sistema, tiempo de ejecución, registros.
 
-
-
+## Estado del Proceso
+### Un proceso puede tener varios estados dependiendo de su ejecución
+- Nuevo: Se Solicita la creación de un proceso
+- Listo: Sistema listo para iniciar un proceso
+- En ejecución: Proceso siendo ejecutado.
+- Bloqueado: Proceso detenido por algún evento, necesita retirarse el bloqueo para continuar su ejecución.
+- Zombie: Proceso finalizado, pero el sistema esta realizando acciones de limpieza para retirarlo de la lista de ejecución. 
+- Terminado: El proceso terminó su ejecución. 
 
 # Algoritmos de planeacion
 1. First Come First Served(FCFS):<br>
